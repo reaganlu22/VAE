@@ -1,13 +1,14 @@
 
-<h1 align="center">Variants AutoEncoder - Deep Machine Learning Fall 2020 Project. </h1> <p>
+<h1 align="center">Variants AutoEncoder Enhancemnt </h1> <p>
 
 <h4 align="center">
 </h4>
 
-<h4 align="center"> UNCG 2020 Senior Capstone Project 🎓 </h4>
+<h4 align="center">  - Deep Machine Learning Fall 2020 Project 🎓 </h4>
 
 ## Motivation and Goals
- The global COVID-19 pandemic was declared on March 11, 2020 by the World Health Organization and, as the new year is slowly approaching, the virus shows no apparent signs of disappearing soon. This suggests a necessity of new data-driven tools and methods to help society work around and cope with COVID-19 while promoting safety. The main goal of COVID Lens is to provide a novel COVID-19 tracking and public awareness system that will inform and protect members of the UNCG community from the COVID-19 virus.
+A variational autoencoder (VAE) provides a probabilistic manner for describing an observation in latent space. Thus, rather than building an encoder which outputs a single value to describe each latent state attribute, we'll formulate our encoder to describe a probability distribution for each latent attribute.
+
 
 
 ## Features
