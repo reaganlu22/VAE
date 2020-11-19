@@ -1,5 +1,5 @@
 
-<h3 align="center">Variants AutoEncoder - Deep Machine Learning Fall 2020 Project. </h3> <p>
+<h5 align="center">Variants AutoEncoder - Deep Machine Learning Fall 2020 Project. </h5> <p>
 
 <h4 align="center">
 </h4>
