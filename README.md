@@ -1,5 +1,5 @@
 
-<h3 align="center">COVID Lens - A viable countermeasure to the current safety and social threats posed by COVID-19. </h3> <p>
+<h3 align="center">Variants AutoEncoder - Deep Machine Learning Fall 2020 Project. </h3> <p>
 
 <h4 align="center">
   <a href="https://github.com/iataylor15/COVID-Lens-App#motivation-and-goals">Motivation and Goals</a> |
